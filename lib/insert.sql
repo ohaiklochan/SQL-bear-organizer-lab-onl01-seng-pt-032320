@@ -1,0 +1,1 @@
+INSERT INTO bears (name, age, gender, color, temparament) VALUES ();
